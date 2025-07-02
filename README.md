@@ -1,1 +1,1 @@
-"# My New Project to learning AI" 
+"# My New Project" 
